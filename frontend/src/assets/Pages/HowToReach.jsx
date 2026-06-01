@@ -43,7 +43,7 @@ const HowToReach = () => {
             Corporation</a></div>
 
         <div   data-scroll data-scroll-fade data-scroll-speed="0.2" >
-          <img className="w-full h-[575px] object-cover object-bottom animate-slowFadeIn2" src="https://i.pinimg.com/736x/ff/c5/de/ffc5defc3f2d0295f56ceecaf267a8b8.jpg" />
+          <img className="w-full h-[575px] object-cover object-bottom animate-slowFadeIn2" src="https://i.pinimg.com/736x/b0/1a/40/b01a40cc025aafa0a4f17bdb464a2ccd.jpg" />
         </div>
         <div className="text-black text-[40px] font-normal font-['Raleway'] tracking-[3.20px] mt-10 ml-5">By Air</div>
         <div className="w-[1367px] h-[275px] mt-10 ml-5"><span className="text-black text-xl font-normal font-['Sans Serif Collection'] tracking-wider">The airports of Chandigarh and Pathankot on the borders 
