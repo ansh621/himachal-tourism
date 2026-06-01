@@ -72,7 +72,7 @@ const AI = () => {
         className="absolute top-0 left-0 w-full h-full object-cover -z-10"
       >
         <source
-          src="/1448735-uhd_4096_2160_24fps.mp4"
+          src="https://www.pexels.com/download/video/8025557/"
           type="video/mp4"
         />
       </video>
