@@ -16,7 +16,7 @@ const HowToReach = () => {
             className="inset-0 object-cover w-full h-full -z-10 "
           >
             <source
-              src="public\3563086-uhd_3840_2160_25fps.mp4"
+              src="https://www.pexels.com/download/video/3563086/"
               type="video/mp4"
             />
           </video>
@@ -34,7 +34,7 @@ const HowToReach = () => {
           <br /><br /></span><a href="https://www.irctc.co.in/nget/train-search" className="mt-10 ml-5text-black text-xl font-normal font-['Sans Serif Collection'] underline tracking-wider">Kalka Shimla Rail Line<br />Pathankot – Joginder Nagar Railway Line<br />Una Himachal Railway Line</a>
         </div>
         <div   data-scroll data-scroll-speed="0.2">
-          <img className="w-full h-[550px] object-cover object-bottom animate-slowFadeIn2" src="public\DSC_1737.JPG" />
+          <img className="w-full h-[550px] object-cover object-bottom animate-slowFadeIn2" src="https://i.pinimg.com/1200x/a0/6d/d4/a06dd448c85e240a6c10902a8340a08a.jpg" />
         </div>
         <div className="text-black text-[40px] font-normal font-['Raleway'] tracking-[3.20px] mt-10 ml-5">By Bus</div>
         <div className=" mt-10 ml-5 w-[1367px] h-[250.11px]"><span className="text-black text-xl font-normal font-['Sans Serif Collection'] tracking-wider">Himachal Pradesh is easily accessible by road from Chandigarh, Kalka and Pathankot. Interstate bus services are available from Delhi, Chandigarh, Jaipur and other neighboring cities. Within Himachal, a good public transport service and taxi services serve reach all destinations in the state
@@ -43,7 +43,7 @@ const HowToReach = () => {
             Corporation</a></div>
 
         <div   data-scroll data-scroll-fade data-scroll-speed="0.2" >
-          <img className="w-full h-[575px] object-cover object-bottom animate-slowFadeIn2" src="public\pexels-mtyutina-249581.jpg" />
+          <img className="w-full h-[575px] object-cover object-bottom animate-slowFadeIn2" src="https://i.pinimg.com/736x/ff/c5/de/ffc5defc3f2d0295f56ceecaf267a8b8.jpg" />
         </div>
         <div className="text-black text-[40px] font-normal font-['Raleway'] tracking-[3.20px] mt-10 ml-5">By Air</div>
         <div className="w-[1367px] h-[275px] mt-10 ml-5"><span className="text-black text-xl font-normal font-['Sans Serif Collection'] tracking-wider">The airports of Chandigarh and Pathankot on the borders 
