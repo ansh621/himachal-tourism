@@ -145,11 +145,7 @@ const Home = () => {
                  Let your imagination take you there, and we’ll show you the way!</div>
               </div>
             </div>
-            <div className="flex pt-7 mt-5 justify-center text-white text-4xl font-['Raleway'] font-normal ">
-              We will find the best Route for your destination !!! 😀
-            </div>
-            <BestRoute />
-
+            
 
             
             <div className="flex pt-7  justify-center text-white text-4xl font-['Raleway'] font-normal hover:text-rose-400 hover:scale-110 ease-in duration-200 hover:underline ">
