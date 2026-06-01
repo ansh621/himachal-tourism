@@ -33,7 +33,7 @@ const Home = () => {
     className="absolute inset-0 object-cover w-full h-full -z-10"
   >
     <source
-      src="public/1448735-uhd_4096_2160_24fps.mp4"
+      src="https://www.pexels.com/download/video/17791400/"
       type="video/mp4"
     />
   </video>
