@@ -99,6 +99,18 @@ const Home = () => {
             </div>
           </div>
           <div className='backgroundv' >
+             <video
+            id="fullscreen-video"
+            autoPlay
+            muted
+            loop
+            className="inset-0 object-cover w-full h-full"
+          >
+            <source
+              src="https://www.pexels.com/download/video/11054019/"
+              type="video/mp4"
+            />
+          </video>
             <div className='relative w-full h-10 flex items-center justify-center' >
               <div className="text-white opacity-80 font-['Raleway'] text-5xl mt-7 underline  tracking-tight underline-offset-8 decoration-[#915700]">
                 Top Destination
