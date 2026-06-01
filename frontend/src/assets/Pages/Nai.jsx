@@ -42,14 +42,14 @@ export const Nai = () => {
               also available at Bir.</div>
           </div>
           <img className="w-[551px] h-[500px] ml-7 rounded-[42px] border border-black hover:scale-105 ease-in duration-300 "
-            src="public\Exploring Bir Billing_ The Paragliding capital of the world_.jpeg" />
+            src="https://images.pexels.com/photos/20137380/pexels-photo-20137380.jpeg" />
 
         </div>
 
 
         <div className='relative w-full flex justify-evenly py-5 mt-6'>
           <img className="w-[551px] h-[500px] ml-7 rounded-[42px] border border-black hover:scale-110 ease-in duration-300 "
-            src="public\Rohru-to-Chanshal-Pass-750x430.jpg" />
+            src="https://pixabay.com/images/download/thestorychef-snow-4869331_1920.jpg" />
           <div className=" ml-5 custom-div h-[500px] w-[793px] border-1 border-black rounded-3xl">
             <div className=" text-black text-[40px] font-['Raleway']ormal font-['Raleway']  mt-5 ml-5">Chanshal(Rohru)</div>
             <div className="w-[745px] h-[440px] ml-3 mt-3 px-2 tracking-tighter text-black text-xl font-['Raleway']ormal font-['Sans Serif Collection'] tracking-wider">The snow clad crest of Chanshal range ascends above the Pabbar Valley and catches attention like few other ranges. At about 180 km from Shimla, Chanshal Pass runs through all of Himachal in its full glory. As the region has such lofty peaks, mountaineering is a natural choice for adventure seekers here. Camping is also popular, as it affords views of the panoramic mountain range, the valleys, pastures and the water bodies that are in its vicinity. With many options to trek, you will be in a spot deciding between Buran Pass, Chandranahan Lake, Janghlik and more.
@@ -67,7 +67,7 @@ export const Nai = () => {
               <p className='font-bold mt-3'>Where to Stay</p>:Himachal Tourism operates a basic Trekkers Hostel at Janjehli. Private accommodation in the form of Hotels, guest houses and several Home Stay accommodations are available at Janjehli.</div>
           </div>
           <img className="w-[551px] h-[500px] ml-7 rounded-[42px] border border-black hover:scale-105 ease-in duration-300 "
-            src="public\Janjehli-Mandi-1.jpg" />
+            src="https://www.tusktravel.com/blog/wp-content/uploads/2022/11/Janjehli-Valley-Himachal-Pradesh.jpg" />
 
         </div>
         <Footer/>
