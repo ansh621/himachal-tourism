@@ -10,7 +10,7 @@ export const Nai = () => {
         <div  data-scroll data-scroll-fade data-scroll-speed="0.3">
           <img
             className="h-[616px] w-full  border-black object-cover object-bottom animate-slowFadeIn3"
-            src="https://pixabay.com/images/download/avalok-chandra-tal-2792123_1920.jpg"
+            src="https://i.pinimg.com/736x/89/15/f0/8915f033e6629c89e559b8a0a3f5bc19.jpg"
             alt="Ladakh  road"
           />
 
@@ -49,7 +49,7 @@ export const Nai = () => {
 
         <div className='relative w-full flex justify-evenly py-5 mt-6'>
           <img className="w-[551px] h-[500px] ml-7 rounded-[42px] border border-black hover:scale-110 ease-in duration-300 "
-            src="https://pixabay.com/images/download/thestorychef-snow-4869331_1920.jpg" />
+            src="https://i.pinimg.com/736x/70/16/a2/7016a29d6623dd808a0319c018a7ded8.jpg" />
           <div className=" ml-5 custom-div h-[500px] w-[793px] border-1 border-black rounded-3xl">
             <div className=" text-black text-[40px] font-['Raleway']ormal font-['Raleway']  mt-5 ml-5">Chanshal(Rohru)</div>
             <div className="w-[745px] h-[440px] ml-3 mt-3 px-2 tracking-tighter text-black text-xl font-['Raleway']ormal font-['Sans Serif Collection'] tracking-wider">The snow clad crest of Chanshal range ascends above the Pabbar Valley and catches attention like few other ranges. At about 180 km from Shimla, Chanshal Pass runs through all of Himachal in its full glory. As the region has such lofty peaks, mountaineering is a natural choice for adventure seekers here. Camping is also popular, as it affords views of the panoramic mountain range, the valleys, pastures and the water bodies that are in its vicinity. With many options to trek, you will be in a spot deciding between Buran Pass, Chandranahan Lake, Janghlik and more.
