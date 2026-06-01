@@ -98,33 +98,38 @@ const Home = () => {
               />
             </div>
           </div>
-          <div className='backgroundv' >
-             <video
-            id="fullscreen-video"
-            autoPlay
-            muted
-            loop
-            className="inset-0 object-cover w-full h-full"
-          >
-            <source
-              src="https://www.pexels.com/download/video/11054019/"
-              type="video/mp4"
-            />
-          </video>
-            <div className='relative w-full h-10 flex items-center justify-center' >
-              <div className="text-white opacity-80 font-['Raleway'] text-5xl mt-7 underline  tracking-tight underline-offset-8 decoration-[#915700]">
-                Top Destination
-              </div>
-            </div>
-            <div className='flex' data-scroll data-scroll-speed="0.2">
-              <div className="Carousel-image h-[649px] w-[570px]  ml-5 mt-14 hover:scale-110 ease-in duration-300">
-                <ImageCarousel images={images} />
-              </div>
-              <div className="relative h-[639px] w-3/5 border-2 ml-10 border-gray-100 rounded-tl-3xl rounded-bl-3xl mt-14">
-                <Topdest />
-              </div>
-            </div>
-          </div>
+          <div className="backgroundv relative overflow-hidden">
+
+  <video
+    autoPlay
+    muted
+    loop
+    playsInline
+    className="absolute inset-0 w-full h-full object-cover -z-10"
+  >
+    <source
+      src="https://www.pexels.com/download/video/11054019/"
+      type="video/mp4"
+    />
+  </video>
+
+  <div className="relative z-10 w-full h-10 flex items-center justify-center">
+    <div className="text-white opacity-80 font-['Raleway'] text-5xl mt-7 underline tracking-tight underline-offset-8 decoration-[#915700]">
+      Top Destination
+    </div>
+  </div>
+
+  <div className="relative z-10 flex" data-scroll data-scroll-speed="0.2">
+    <div className="Carousel-image h-[649px] w-[570px] ml-5 mt-14 hover:scale-110 ease-in duration-300">
+      <ImageCarousel images={images} />
+    </div>
+
+    <div className="relative h-[639px] w-3/5 border-2 ml-10 border-gray-100 rounded-tl-3xl rounded-bl-3xl mt-14">
+      <Topdest />
+    </div>
+  </div>
+
+</div>
           <div className="relative w-screen h-[1429px] bg-gradient-to-b from-[#252525] to-[#8b8b8b]">
             <div className="flex pt-7 justify-center text-white text-4xl font-['Raleway'] font-normal ">
            
