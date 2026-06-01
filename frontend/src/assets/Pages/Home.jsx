@@ -75,7 +75,7 @@ const Home = () => {
             className="inset-0 object-cover w-full h-full"
           >
             <source
-              src="public/199956-911694856_medium.mp4"
+              src="https://www.pexels.com/download/video/31657899/"
               type="video/mp4"
             />
           </video>
@@ -93,7 +93,7 @@ const Home = () => {
             <div className='relative h-[570px]' >
               <img
                 className="h-[570px] w-[500px]  rounded-[35px] shadow border border-black hover:scale-110 ease-in duration-300"
-                src="src/assets/Incredible India 🇮🇳!_Gue Village, Spiti, Himachal Pradesh_.jpeg"
+                src="https://i.pinimg.com/736x/bf/a4/59/bfa459039431dd11ba43357b67dc1226.jpg"
                 alt="Gue Village"
               />
             </div>
