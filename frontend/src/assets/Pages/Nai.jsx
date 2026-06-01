@@ -10,7 +10,7 @@ export const Nai = () => {
         <div  data-scroll data-scroll-fade data-scroll-speed="0.3">
           <img
             className="h-[616px] w-full  border-black object-cover object-bottom animate-slowFadeIn3"
-            src="public\pexels-sakshi-patwa-3335937-5310312.jpg"
+            src="https://pixabay.com/images/download/avalok-chandra-tal-2792123_1920.jpg"
             alt="Ladakh  road"
           />
 
